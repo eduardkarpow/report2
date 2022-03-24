@@ -1,0 +1,6 @@
+VAR
+	gAxis01_oSetPosOld : INT := 0;
+	gAxis02_oSetPosOld : INT := 0;
+	gAxis03_oSetPosOld : INT := 0;
+	gAxis04_oSetPosOld : INT := 0;
+END_VAR

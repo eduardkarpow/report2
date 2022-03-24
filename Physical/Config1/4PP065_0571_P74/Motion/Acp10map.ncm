@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio Version=?>
+<NcMapping NcSwId="Acp10">
+  <NcObject Name="gAxis03" ModuleId="X20SM1436" ModuleAddress="SDC_IF1.ST1" Type="ncAXIS" Channel="1" AcoposSimulation="Off" InitParameter="gAxis03i" AcoposParameter="gAxis03a" Disabled="FALSE" ModuleDisabled="FALSE" />
+  <NcObject Name="gAxis04" ModuleId="X20SM1436a" ModuleAddress="SDC_IF1.ST2" Type="ncAXIS" Channel="1" AcoposSimulation="Off" InitParameter="gAxis04i" AcoposParameter="gAxis04a" Disabled="FALSE" ModuleDisabled="FALSE" />
+</NcMapping>

@@ -1,0 +1,641 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio Version="4.5.2.102"?>
+<Objects>
+  <Object
+    Path="C:\projects\prac222\Logical\Package.pkg"
+    LogicalPath=""
+    Type="Package.ParentUnknown"
+    LastWriteTime="132921926592283750" />
+  <Object
+    Path="C:\projects\prac222\Logical\Global.typ"
+    LogicalPath="Global.typ"
+    Type="File"
+    LastWriteTime="132908531660000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\prac222\Logical\Global.var"
+    LogicalPath="Global.var"
+    Type="File"
+    LastWriteTime="132921009352925167"
+    Private="false" />
+  <Object
+    Path="C:\projects\prac222\Logical\Libraries\Package.pkg"
+    LogicalPath="Libraries"
+    Type="Package"
+    LastWriteTime="132908534140000000" />
+  <Object
+    Path="C:\projects\prac222\Logical\Libraries\operator\binary.lby"
+    LogicalPath="Libraries.operator"
+    Type="Library"
+    LastWriteTime="132908531680000000" />
+  <Object
+    Path="C:\projects\prac222\Logical\Libraries\operator\operator.fun"
+    LogicalPath="Libraries.operator.operator.fun"
+    Type="File"
+    LastWriteTime="132908531680000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\prac222\Logical\Libraries\operator\operator.typ"
+    LogicalPath="Libraries.operator.operator.typ"
+    Type="File"
+    LastWriteTime="132908531680000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\prac222\Logical\Libraries\operator\operator.var"
+    LogicalPath="Libraries.operator.operator.var"
+    Type="File"
+    LastWriteTime="132908531680000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\prac222\Logical\Libraries\runtime\binary.lby"
+    LogicalPath="Libraries.runtime"
+    Type="Library"
+    LastWriteTime="132908531680000000" />
+  <Object
+    Path="C:\projects\prac222\Logical\Libraries\runtime\runtime.fun"
+    LogicalPath="Libraries.runtime.runtime.fun"
+    Type="File"
+    LastWriteTime="132908531680000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\prac222\Logical\Libraries\runtime\runtime.typ"
+    LogicalPath="Libraries.runtime.runtime.typ"
+    Type="File"
+    LastWriteTime="132908531680000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\prac222\Logical\Libraries\runtime\runtime.var"
+    LogicalPath="Libraries.runtime.runtime.var"
+    Type="File"
+    LastWriteTime="132908531680000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\prac222\Logical\Libraries\astime\binary.lby"
+    LogicalPath="Libraries.astime"
+    Type="Library"
+    LastWriteTime="132908531680000000" />
+  <Object
+    Path="C:\projects\prac222\Logical\Libraries\astime\astime.fun"
+    LogicalPath="Libraries.astime.astime.fun"
+    Type="File"
+    LastWriteTime="132908531680000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\prac222\Logical\Libraries\astime\astime.typ"
+    LogicalPath="Libraries.astime.astime.typ"
+    Type="File"
+    LastWriteTime="132908531680000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\prac222\Logical\Libraries\astime\astime.var"
+    LogicalPath="Libraries.astime.astime.var"
+    Type="File"
+    LastWriteTime="132908531680000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\prac222\Logical\Libraries\AsIecCon\binary.lby"
+    LogicalPath="Libraries.AsIecCon"
+    Type="Library"
+    LastWriteTime="132908531680000000" />
+  <Object
+    Path="C:\projects\prac222\Logical\Libraries\AsIecCon\AsIecCon.fun"
+    LogicalPath="Libraries.AsIecCon.AsIecCon.fun"
+    Type="File"
+    LastWriteTime="132908531680000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\prac222\Logical\Libraries\AsIecCon\AsIecCon.typ"
+    LogicalPath="Libraries.AsIecCon.AsIecCon.typ"
+    Type="File"
+    LastWriteTime="132908531680000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\prac222\Logical\Libraries\AsIecCon\AsIecCon.var"
+    LogicalPath="Libraries.AsIecCon.AsIecCon.var"
+    Type="File"
+    LastWriteTime="132908531680000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\prac222\Logical\Libraries\Acp10man\Binary.lby"
+    LogicalPath="Libraries.Acp10man"
+    Type="Library"
+    LastWriteTime="132908534000000000" />
+  <Object
+    Path="C:\projects\prac222\Logical\Libraries\Acp10man\Acp10man.typ"
+    LogicalPath="Libraries.Acp10man.Acp10man.typ"
+    Type="File"
+    LastWriteTime="132908534000000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\prac222\Logical\Libraries\Acp10par\Binary.lby"
+    LogicalPath="Libraries.Acp10par"
+    Type="Library"
+    LastWriteTime="132908534000000000" />
+  <Object
+    Path="C:\projects\prac222\Logical\Libraries\Acp10par\Acp10par.var"
+    LogicalPath="Libraries.Acp10par.Acp10par.var"
+    Type="File"
+    LastWriteTime="132908534000000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\prac222\Logical\Libraries\NcGlobal\Binary.lby"
+    LogicalPath="Libraries.NcGlobal"
+    Type="Library"
+    LastWriteTime="132908534000000000" />
+  <Object
+    Path="C:\projects\prac222\Logical\Libraries\NcGlobal\NcGlobal.fun"
+    LogicalPath="Libraries.NcGlobal.NcGlobal.fun"
+    Type="File"
+    LastWriteTime="132908534000000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\prac222\Logical\Libraries\NcGlobal\NcGlobal.typ"
+    LogicalPath="Libraries.NcGlobal.NcGlobal.typ"
+    Type="File"
+    LastWriteTime="132908534000000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\prac222\Logical\Libraries\NcGlobal\NcGlobal.var"
+    LogicalPath="Libraries.NcGlobal.NcGlobal.var"
+    Type="File"
+    LastWriteTime="132908534000000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\prac222\Logical\Libraries\Acp10sdc\binary.lby"
+    LogicalPath="Libraries.Acp10sdc"
+    Type="Library"
+    LastWriteTime="132908534120000000" />
+  <Object
+    Path="C:\projects\prac222\Logical\Libraries\Acp10sdc\acp10sdc.var"
+    LogicalPath="Libraries.Acp10sdc.acp10sdc.var"
+    Type="File"
+    LastWriteTime="132908534120000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\prac222\Logical\Libraries\Acp10sdc\acp10sdc.typ"
+    LogicalPath="Libraries.Acp10sdc.acp10sdc.typ"
+    Type="File"
+    LastWriteTime="132908534120000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\prac222\Logical\Libraries\Acp10_MC\binary.lby"
+    LogicalPath="Libraries.Acp10_MC"
+    Type="Library"
+    LastWriteTime="132908534120000000" />
+  <Object
+    Path="C:\projects\prac222\Logical\Libraries\Acp10_MC\acp10_mc.fun"
+    LogicalPath="Libraries.Acp10_MC.acp10_mc.fun"
+    Type="File"
+    LastWriteTime="132908534120000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\prac222\Logical\Libraries\Acp10_MC\acp10_mc.typ"
+    LogicalPath="Libraries.Acp10_MC.acp10_mc.typ"
+    Type="File"
+    LastWriteTime="132908534120000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\prac222\Logical\Libraries\Acp10_MC\acp10_mc.var"
+    LogicalPath="Libraries.Acp10_MC.acp10_mc.var"
+    Type="File"
+    LastWriteTime="132908534120000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\prac222\Logical\Libraries\brsystem\binary.lby"
+    LogicalPath="Libraries.brsystem"
+    Type="Library"
+    LastWriteTime="132908534120000000" />
+  <Object
+    Path="C:\projects\prac222\Logical\Libraries\brsystem\brsystem.fun"
+    LogicalPath="Libraries.brsystem.brsystem.fun"
+    Type="File"
+    LastWriteTime="132908534120000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\prac222\Logical\Libraries\brsystem\brsystem.typ"
+    LogicalPath="Libraries.brsystem.brsystem.typ"
+    Type="File"
+    LastWriteTime="132908534120000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\prac222\Logical\Libraries\brsystem\brsystem.var"
+    LogicalPath="Libraries.brsystem.brsystem.var"
+    Type="File"
+    LastWriteTime="132908534120000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\prac222\Logical\Libraries\sys_lib\binary.lby"
+    LogicalPath="Libraries.sys_lib"
+    Type="Library"
+    LastWriteTime="132908534120000000" />
+  <Object
+    Path="C:\projects\prac222\Logical\Libraries\sys_lib\sys_lib.fun"
+    LogicalPath="Libraries.sys_lib.sys_lib.fun"
+    Type="File"
+    LastWriteTime="132908534120000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\prac222\Logical\Libraries\sys_lib\sys_lib.typ"
+    LogicalPath="Libraries.sys_lib.sys_lib.typ"
+    Type="File"
+    LastWriteTime="132908534120000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\prac222\Logical\Libraries\sys_lib\sys_lib.var"
+    LogicalPath="Libraries.sys_lib.sys_lib.var"
+    Type="File"
+    LastWriteTime="132908534120000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\prac222\Logical\Libraries\AsBrStr\binary.lby"
+    LogicalPath="Libraries.AsBrStr"
+    Type="Library"
+    LastWriteTime="132908534140000000" />
+  <Object
+    Path="C:\projects\prac222\Logical\Libraries\AsBrStr\AsBrStr.fun"
+    LogicalPath="Libraries.AsBrStr.AsBrStr.fun"
+    Type="File"
+    LastWriteTime="132908534140000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\prac222\Logical\Libraries\AsBrStr\AsBrStr.typ"
+    LogicalPath="Libraries.AsBrStr.AsBrStr.typ"
+    Type="File"
+    LastWriteTime="132908534140000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\prac222\Logical\Libraries\AsBrStr\AsBrStr.var"
+    LogicalPath="Libraries.AsBrStr.AsBrStr.var"
+    Type="File"
+    LastWriteTime="132908534140000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\prac222\Logical\ncsdcctrl\IEC.prg"
+    LogicalPath="ncsdcctrl"
+    Type="Program"
+    LastWriteTime="132908533980000000" />
+  <Object
+    Path="C:\projects\prac222\Logical\ncsdcctrl\ncsdcctrlCyclic.st"
+    LogicalPath="ncsdcctrl.ncsdcctrlCyclic.st"
+    Type="File"
+    LastWriteTime="132921009345647256"
+    Private="false" />
+  <Object
+    Path="C:\projects\prac222\Logical\ncsdcctrl\ncsdcctrlInit.st"
+    LogicalPath="ncsdcctrl.ncsdcctrlInit.st"
+    Type="File"
+    LastWriteTime="132921009345616815"
+    Private="false" />
+  <Object
+    Path="C:\projects\prac222\Logical\ncsdcctrl\ncsdcctrl.typ"
+    LogicalPath="ncsdcctrl.ncsdcctrl.typ"
+    Type="File"
+    LastWriteTime="132908533980000000"
+    Private="true" />
+  <Object
+    Path="C:\projects\prac222\Logical\ncsdcctrl\ncsdcctrl.var"
+    LogicalPath="ncsdcctrl.ncsdcctrl.var"
+    Type="File"
+    LastWriteTime="132921009353461730"
+    Private="true" />
+  <Object
+    Path="C:\projects\prac222\Logical\acp10etxen\Ett.dob"
+    LogicalPath="acp10etxen"
+    Type="DataObject"
+    LastWriteTime="132908534100000000" />
+  <Object
+    Path="C:\projects\prac222\Logical\acp10etxen\acp10etxen.ett"
+    LogicalPath="acp10etxen.acp10etxen.ett"
+    Type="File"
+    LastWriteTime="132908534120000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\prac222\Logical\gAxis01obj\Package.pkg"
+    LogicalPath="gAxis01obj"
+    Type="Package"
+    LastWriteTime="132908534140000000" />
+  <Object
+    Path="C:\projects\prac222\Logical\gAxis01obj\gAxis01a\Apt.dob"
+    LogicalPath="gAxis01obj.gAxis01a"
+    Type="DataObject"
+    LastWriteTime="132908534140000000" />
+  <Object
+    Path="C:\projects\prac222\Logical\gAxis01obj\gAxis01a\gAxis01a.apt"
+    LogicalPath="gAxis01obj.gAxis01a.gAxis01a.apt"
+    Type="File"
+    LastWriteTime="132908534140000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\prac222\Logical\gAxis01obj\gAxis01i\Ax.dob"
+    LogicalPath="gAxis01obj.gAxis01i"
+    Type="DataObject"
+    LastWriteTime="132908534140000000" />
+  <Object
+    Path="C:\projects\prac222\Logical\gAxis01obj\gAxis01i\gAxis01i.ax"
+    LogicalPath="gAxis01obj.gAxis01i.gAxis01i.ax"
+    Type="File"
+    LastWriteTime="132908534140000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\prac222\Logical\gAxis02obj\Package.pkg"
+    LogicalPath="gAxis02obj"
+    Type="Package"
+    LastWriteTime="132920633420000000" />
+  <Object
+    Path="C:\projects\prac222\Logical\gAxis02obj\gAxis02a\Apt.dob"
+    LogicalPath="gAxis02obj.gAxis02a"
+    Type="DataObject"
+    LastWriteTime="132908534200000000" />
+  <Object
+    Path="C:\projects\prac222\Logical\gAxis02obj\gAxis02a\gAxis02a.apt"
+    LogicalPath="gAxis02obj.gAxis02a.gAxis02a.apt"
+    Type="File"
+    LastWriteTime="132908534200000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\prac222\Logical\gAxis02obj\gAxis02i\Ax.dob"
+    LogicalPath="gAxis02obj.gAxis02i"
+    Type="DataObject"
+    LastWriteTime="132908534200000000" />
+  <Object
+    Path="C:\projects\prac222\Logical\gAxis02obj\gAxis02i\gAxis02i.ax"
+    LogicalPath="gAxis02obj.gAxis02i.gAxis02i.ax"
+    Type="File"
+    LastWriteTime="132908534200000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\prac222\Logical\Program\ANSIC.prg"
+    LogicalPath="Program"
+    Type="Program"
+    LastWriteTime="132920640040000000" />
+  <Object
+    Path="C:\projects\prac222\Logical\Program\Main.c"
+    LogicalPath="Program.Main.c"
+    Type="File"
+    LastWriteTime="132921941180740555"
+    Private="false" />
+  <Object
+    Path="C:\projects\prac222\Logical\Program\Types.typ"
+    LogicalPath="Program.Types.typ"
+    Type="File"
+    LastWriteTime="132920640040000000"
+    Private="true" />
+  <Object
+    Path="C:\projects\prac222\Logical\Program\Variables.var"
+    LogicalPath="Program.Variables.var"
+    Type="File"
+    LastWriteTime="132921941179821887"
+    Private="true" />
+  <Object
+    Path="C:\projects\prac222\Logical\gAxis03obj\Package.pkg"
+    LogicalPath="gAxis03obj"
+    Type="Package"
+    LastWriteTime="132921009278139652" />
+  <Object
+    Path="C:\projects\prac222\Logical\gAxis03obj\gAxis03a\Apt.dob"
+    LogicalPath="gAxis03obj.gAxis03a"
+    Type="DataObject"
+    LastWriteTime="132921009273295521" />
+  <Object
+    Path="C:\projects\prac222\Logical\gAxis03obj\gAxis03a\gAxis03a.apt"
+    LogicalPath="gAxis03obj.gAxis03a.gAxis03a.apt"
+    Type="File"
+    LastWriteTime="132921009273978746"
+    Private="false" />
+  <Object
+    Path="C:\projects\prac222\Logical\gAxis03obj\gAxis03i\Ax.dob"
+    LogicalPath="gAxis03obj.gAxis03i"
+    Type="DataObject"
+    LastWriteTime="132921009274857154" />
+  <Object
+    Path="C:\projects\prac222\Logical\gAxis03obj\gAxis03i\gAxis03i.ax"
+    LogicalPath="gAxis03obj.gAxis03i.gAxis03i.ax"
+    Type="File"
+    LastWriteTime="132921009278050314"
+    Private="false" />
+  <Object
+    Path="C:\projects\prac222\Logical\gAxis04obj\Package.pkg"
+    LogicalPath="gAxis04obj"
+    Type="Package"
+    LastWriteTime="132921009349320217" />
+  <Object
+    Path="C:\projects\prac222\Logical\gAxis04obj\gAxis04a\Apt.dob"
+    LogicalPath="gAxis04obj.gAxis04a"
+    Type="DataObject"
+    LastWriteTime="132921009347259252" />
+  <Object
+    Path="C:\projects\prac222\Logical\gAxis04obj\gAxis04a\gAxis04a.apt"
+    LogicalPath="gAxis04obj.gAxis04a.gAxis04a.apt"
+    Type="File"
+    LastWriteTime="132921009347493025"
+    Private="false" />
+  <Object
+    Path="C:\projects\prac222\Logical\gAxis04obj\gAxis04i\Ax.dob"
+    LogicalPath="gAxis04obj.gAxis04i"
+    Type="DataObject"
+    LastWriteTime="132921009347935584" />
+  <Object
+    Path="C:\projects\prac222\Logical\gAxis04obj\gAxis04i\gAxis04i.ax"
+    LogicalPath="gAxis04obj.gAxis04i.gAxis04i.ax"
+    Type="File"
+    LastWriteTime="132921009349223790"
+    Private="false" />
+  <Object
+    Path="C:\projects\prac222\Logical\Visu\Vc.dob"
+    LogicalPath="Visu"
+    Type="DataObject"
+    LastWriteTime="132921015127663535" />
+  <Object
+    Path="C:\projects\prac222\Logical\Visu\VCObject.vc"
+    LogicalPath="Visu.VCObject.vc"
+    Type="File"
+    LastWriteTime="132921926592334454"
+    Private="false" />
+  <Object
+    Path="C:\projects\prac222\Physical\Config1\Config.pkg"
+    LogicalPath="Config1"
+    Type="Configuration.ParentUnknown"
+    LastWriteTime="132921005777532840" />
+  <Object
+    Path="C:\projects\prac222\Physical\Config1\Hardware.hw"
+    LogicalPath="Config1.Hardware.hw"
+    Type="File"
+    LastWriteTime="132921926592753043"
+    Private="false" />
+  <Object
+    Path="C:\projects\prac222\Physical\Config1\Hardware.hwl"
+    LogicalPath="Config1.Hardware.hwl"
+    Type="File"
+    LastWriteTime="132921012684385556"
+    Private="false" />
+  <Object
+    Path="C:\projects\prac222\Physical\Config1\4PP065_0571_P74\Cpu.pkg"
+    LogicalPath="Config1.4PP065_0571_P74"
+    Type="Cpu"
+    LastWriteTime="132921009624570803" />
+  <Object
+    Path="C:\projects\prac222\Physical\Config1\4PP065_0571_P74\Cpu.sw"
+    LogicalPath="Config1.4PP065_0571_P74.Cpu.sw"
+    Type="File"
+    LastWriteTime="132921926592504245"
+    Private="false" />
+  <Object
+    Path="C:\projects\prac222\Physical\Config1\4PP065_0571_P74\Cpu.per"
+    LogicalPath="Config1.4PP065_0571_P74.Cpu.per"
+    Type="File"
+    LastWriteTime="132921005760456565"
+    Private="false" />
+  <Object
+    Path="C:\projects\prac222\Physical\Config1\4PP065_0571_P74\IoMap.iom"
+    LogicalPath="Config1.4PP065_0571_P74.IoMap.iom"
+    Type="File"
+    LastWriteTime="132921012685324333"
+    Private="false" />
+  <Object
+    Path="C:\projects\prac222\Physical\Config1\4PP065_0571_P74\PvMap.vvm"
+    LogicalPath="Config1.4PP065_0571_P74.PvMap.vvm"
+    Type="File"
+    LastWriteTime="132921005760548035"
+    Private="false" />
+  <Object
+    Path="C:\projects\prac222\Physical\Config1\4PP065_0571_P74\Connectivity\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.Connectivity"
+    Type="Package"
+    LastWriteTime="132921005760808893" />
+  <Object
+    Path="C:\projects\prac222\Physical\Config1\4PP065_0571_P74\Connectivity\OpcUA\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.Connectivity.OpcUA"
+    Type="Package"
+    LastWriteTime="132921005760804587" />
+  <Object
+    Path="C:\projects\prac222\Physical\Config1\4PP065_0571_P74\TextSystem\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.TextSystem"
+    Type="Package"
+    LastWriteTime="132921005760893509" />
+  <Object
+    Path="C:\projects\prac222\Physical\Config1\4PP065_0571_P74\UnitSystem\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.UnitSystem"
+    Type="Package"
+    LastWriteTime="132921005761041136" />
+  <Object
+    Path="C:\projects\prac222\Physical\Config1\4PP065_0571_P74\AccessAndSecurity\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.AccessAndSecurity"
+    Type="Package"
+    LastWriteTime="132921005761734225" />
+  <Object
+    Path="C:\projects\prac222\Physical\Config1\4PP065_0571_P74\AccessAndSecurity\UserRoleSystem\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.AccessAndSecurity.UserRoleSystem"
+    Type="Package"
+    LastWriteTime="132921005761275425" />
+  <Object
+    Path="C:\projects\prac222\Physical\Config1\4PP065_0571_P74\AccessAndSecurity\UserRoleSystem\Role.role"
+    LogicalPath="Config1.4PP065_0571_P74.AccessAndSecurity.UserRoleSystem.Role.role"
+    Type="File"
+    LastWriteTime="132921005761235422"
+    Private="false" />
+  <Object
+    Path="C:\projects\prac222\Physical\Config1\4PP065_0571_P74\AccessAndSecurity\UserRoleSystem\User.user"
+    LogicalPath="Config1.4PP065_0571_P74.AccessAndSecurity.UserRoleSystem.User.user"
+    Type="File"
+    LastWriteTime="132921005761265426"
+    Private="false" />
+  <Object
+    Path="C:\projects\prac222\Physical\Config1\4PP065_0571_P74\AccessAndSecurity\CertificateStore\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.AccessAndSecurity.CertificateStore"
+    Type="Package"
+    LastWriteTime="132921005761684488" />
+  <Object
+    Path="C:\projects\prac222\Physical\Config1\4PP065_0571_P74\AccessAndSecurity\CertificateStore\OwnCertificates\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.AccessAndSecurity.CertificateStore.OwnCertificates"
+    Type="Package"
+    LastWriteTime="132921005761440249" />
+  <Object
+    Path="C:\projects\prac222\Physical\Config1\4PP065_0571_P74\AccessAndSecurity\CertificateStore\OwnCertificates\Certificates\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.AccessAndSecurity.CertificateStore.OwnCertificates.Certificates"
+    Type="Package"
+    LastWriteTime="132921005761390295" />
+  <Object
+    Path="C:\projects\prac222\Physical\Config1\4PP065_0571_P74\AccessAndSecurity\CertificateStore\OwnCertificates\PrivateKeys\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.AccessAndSecurity.CertificateStore.OwnCertificates.PrivateKeys"
+    Type="Package"
+    LastWriteTime="132921005761430264" />
+  <Object
+    Path="C:\projects\prac222\Physical\Config1\4PP065_0571_P74\AccessAndSecurity\CertificateStore\ThirdPartyCertificates\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.AccessAndSecurity.CertificateStore.ThirdPartyCertificates"
+    Type="Package"
+    LastWriteTime="132921005761573592" />
+  <Object
+    Path="C:\projects\prac222\Physical\Config1\4PP065_0571_P74\AccessAndSecurity\CertificateStore\ThirdPartyCertificates\SoftwareCertificates\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.AccessAndSecurity.CertificateStore.ThirdPartyCertificates.SoftwareCertificates"
+    Type="Package"
+    LastWriteTime="132921005761568599" />
+  <Object
+    Path="C:\projects\prac222\Physical\Config1\4PP065_0571_P74\AccessAndSecurity\CertificateStore\CertificateRevocationLists\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.AccessAndSecurity.CertificateStore.CertificateRevocationLists"
+    Type="Package"
+    LastWriteTime="132921005761617971" />
+  <Object
+    Path="C:\projects\prac222\Physical\Config1\4PP065_0571_P74\AccessAndSecurity\CertificateStore\CertificateSigningRequests\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.AccessAndSecurity.CertificateStore.CertificateSigningRequests"
+    Type="Package"
+    LastWriteTime="132921005761679493" />
+  <Object
+    Path="C:\projects\prac222\Physical\Config1\4PP065_0571_P74\AccessAndSecurity\TransportLayerSecurity\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.AccessAndSecurity.TransportLayerSecurity"
+    Type="Package"
+    LastWriteTime="132921005761734225" />
+  <Object
+    Path="C:\projects\prac222\Physical\Config1\4PP065_0571_P74\mappControl\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.mappControl"
+    Type="Package"
+    LastWriteTime="132921005761807396" />
+  <Object
+    Path="C:\projects\prac222\Physical\Config1\4PP065_0571_P74\mappMotion\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.mappMotion"
+    Type="Package"
+    LastWriteTime="132921005761970974" />
+  <Object
+    Path="C:\projects\prac222\Physical\Config1\4PP065_0571_P74\mappServices\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.mappServices"
+    Type="Package"
+    LastWriteTime="132921005762075664" />
+  <Object
+    Path="C:\projects\prac222\Physical\Config1\4PP065_0571_P74\mappView\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.mappView"
+    Type="Package"
+    LastWriteTime="132921005762191660" />
+  <Object
+    Path="C:\projects\prac222\Physical\Config1\4PP065_0571_P74\mappCockpit\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.mappCockpit"
+    Type="Package"
+    LastWriteTime="132921005762288532" />
+  <Object
+    Path="C:\projects\prac222\Physical\Config1\4PP065_0571_P74\Motion\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.Motion"
+    Type="Package"
+    LastWriteTime="132921009266429518" />
+  <Object
+    Path="C:\projects\prac222\Physical\Config1\4PP065_0571_P74\Motion\Acp10map.ncm"
+    LogicalPath="Config1.4PP065_0571_P74.Motion.Acp10map.ncm"
+    Type="File"
+    LastWriteTime="132921009346277438"
+    Private="false" />
+  <Object
+    Path="C:\projects\prac222\Physical\Config1\4PP065_0571_P74\Motion\Acp10cfg.ncc"
+    LogicalPath="Config1.4PP065_0571_P74.Motion.Acp10cfg.ncc"
+    Type="File"
+    LastWriteTime="132921009261575623"
+    Private="false" />
+  <Object
+    Path="C:\projects\prac222\Physical\Config1\4PP065_0571_P74\Motion\Acp10sys.br"
+    LogicalPath="Config1.4PP065_0571_P74.Motion.Acp10sys.br"
+    Type="File"
+    LastWriteTime="132921009267428751"
+    Private="false" />
+  <Object
+    Path="C:\projects\prac222\Physical\Config1\Hardware.jpg"
+    LogicalPath="Config1.Hardware.jpg"
+    Type="File"
+    LastWriteTime="132921924333439224"
+    Private="false" />
+</Objects>
